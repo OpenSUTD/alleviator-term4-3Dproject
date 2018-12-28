@@ -8,12 +8,13 @@ The tables currently available in the market are not suited to fit different use
 Currently in the market, it is ergonomic tables and desktop attachments are costly, hence a problem that we can tackle is the high cost of ergonomic tables. Our product, Alleviator, which could clamp most table leg sizes, makes any table ergonomic and can be used to elevate the tables to the appropriate height and angle of inclination.
 
 ## Prototype 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Prototype")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Prototype clamp")
+![alt text](alleviator-term4-3Dproject/prototype 1.png Prototype")
+![alt text](alleviator-term4-3Dproject/prototype 2.png "Prototype clamp")
 
 The concept of our product hinges on the automation of the product’s folding and unfolding, which thereafter determines the height of the table. The automation is done through the implementation of a switch system. We chose carbon fiber, a material strong enough to maintain its rigidity under stress.
 
 ## Circuit Diagram
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Circuit")
+![alt text](alleviator-term4-3Dproject/schemeit-project (2).png"Circuit")
+
 MOSFET used: NCE30H15
 15V power source attached to MOSFET, 9V battery attached to motor. 
