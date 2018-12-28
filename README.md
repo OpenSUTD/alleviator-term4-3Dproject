@@ -17,7 +17,7 @@ The concept of our product hinges on the automation of the product’s folding a
 
 ## Circuit Diagram
 ![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/raw/master/src/schemeit-project.png)
-raw/master/src/
+
 MOSFET used: NCE30H15
 
 15V power source attached to MOSFET, 9V battery attached to motor. 
