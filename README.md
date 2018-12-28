@@ -8,6 +8,7 @@ The tables currently available in the market are not suited to fit different use
 Currently in the market, it is ergonomic tables and desktop attachments are costly, hence a problem that we can tackle is the high cost of ergonomic tables. Our product, Alleviator, which could clamp most table leg sizes, makes any table ergonomic and can be used to elevate the tables to the appropriate height and angle of inclination.
 
 ## Prototype 
+
 ![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/prototype1.png)
 
 ![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/prototype2.png)
