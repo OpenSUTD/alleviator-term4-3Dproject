@@ -9,9 +9,7 @@ Currently in the market, it is ergonomic tables and desktop attachments are cost
 
 ## Prototype 
 
-![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/prototype1.png)
 
-![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/prototype2.png)
 
 The concept of our product hinges on the automation of the product’s folding and unfolding, which thereafter determines the height of the table. The automation is done through the implementation of a switch system. We chose carbon fiber, a material strong enough to maintain its rigidity under stress.
 
