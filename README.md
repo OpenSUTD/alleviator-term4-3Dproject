@@ -16,8 +16,8 @@ Currently in the market, it is ergonomic tables and desktop attachments are cost
 The concept of our product hinges on the automation of the product’s folding and unfolding, which thereafter determines the height of the table. The automation is done through the implementation of a switch system. We chose carbon fiber, a material strong enough to maintain its rigidity under stress.
 
 ## Circuit Diagram
-![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/schemeit-project.png)
-
+![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/raw/master/src/schemeit-project.png)
+raw/master/src/
 MOSFET used: NCE30H15
 
 15V power source attached to MOSFET, 9V battery attached to motor. 
