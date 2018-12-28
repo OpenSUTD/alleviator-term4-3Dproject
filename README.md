@@ -15,6 +15,8 @@ Currently in the market, it is ergonomic tables and desktop attachments are cost
 
 The concept of our product hinges on the automation of the product’s folding and unfolding, which thereafter determines the height of the table. The automation is done through the implementation of a switch system. We chose carbon fiber, a material strong enough to maintain its rigidity under stress.
 
+Laser cut file attached above is the file we used to make the clamp.
+
 ## Circuit Diagram
 ![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/raw/master/schemeit-project.png)
 
