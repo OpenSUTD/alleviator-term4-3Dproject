@@ -2,6 +2,8 @@
 
 This project was started as part of the 2018 3D project for 30.001: Structures and Materials and 30.002: Circuits and Electronics
 
+[could we include a description of what the 3D project was about. eg. the design goal, constraints given, timeframe of the proejct]
+
 ## Project Introduction
 The tables currently available in the market are not suited to fit different user requirements simultaneously, such as the need for a standing desk for the more health-conscious or simply the need to adjust desk height to suit one’s needs. Currently, one has to use an entirely different table for a different purpose and it is inconvenient and costly for the user.  
  
@@ -23,3 +25,11 @@ Laser cut file attached above is the file we used to make the clamp.
 MOSFET used: NCE30H15
 
 15V power source attached to MOSFET, 9V battery attached to motor. 
+
+## File descriptions
+Here we explain what the files in our repository do.
+
+| File        | Description           | Comments  |
+| ------------- |:-------------:| -----:|
+| filename.filetype      | what does it do | possible future work, potential warnings when using the file etc |
+|CP02_Grp10final.pdf | Poster to describe project | has issues displaying on Github so please download the file to view it in its entirety|
