@@ -2,7 +2,12 @@
 
 This project was started as part of the 2018 3D project for 30.001: Structures and Materials and 30.002: Circuits and Electronics
 
-[could we include a description of what the 3D project was about. eg. the design goal, constraints given, timeframe of the proejct]
+# Term 4 3D project description
+
+Goal: To	design,	build,	and	analyze a	gadget/device/product for	an	application	related	to	one	or	two	of	the	EPD	tracks using concepts obtained in 30.001 and 30.002. Students were	encouraged	to	use	discrete	electronic	components,	MOSFETs,	Op-amps,	R,	L,	C,	diodes,	sensors,	and	logic	chips,	e.g.	counters,	shift	registers. Students	are	discouraged	from	using	embedded	systems, e.g.	Arduino or	rely	too	heavily	on	coding.
+
+Project timeframe: Term 4 week 5 to term 4 week 12
+
 
 ## Project Introduction
 The tables currently available in the market are not suited to fit different user requirements simultaneously, such as the need for a standing desk for the more health-conscious or simply the need to adjust desk height to suit one’s needs. Currently, one has to use an entirely different table for a different purpose and it is inconvenient and costly for the user.  
