@@ -36,5 +36,5 @@ Here we explain what the files in our repository do.
 
 | File        | Description           | Comments  |
 | ------------- |:-------------:| -----:|
-| filename.filetype      | what does it do | possible future work, potential warnings when using the file etc |
-|CP02_Grp10final.pdf | Poster to describe project | has issues displaying on Github so please download the file to view it in its entirety|
+| 3D_laser_print.dwg  | Laser cutting file used for printing of clamp and drill guide for carbon fibre square tubes | AutoCAD is used to create file. The circular parts of the file are the clamp, rectangular parts are the drill guide. Parts are to be placed together using nuts and bolts. |
+|CP02_Grp10final.pdf | Poster to describe project | Has issues displaying on Github. Please download the file to view it in its entirety|
