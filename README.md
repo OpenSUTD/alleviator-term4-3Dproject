@@ -16,16 +16,16 @@ Currently in the market, it is ergonomic tables and desktop attachments are cost
 
 ## Prototype 
 
-![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/master/prototype1.png)
+![alt text](prototype1.png)
 
-![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/master/prototype2.png)
+![alt text](prototype2.png)
 
 The concept of our product hinges on the automation of the product’s folding and unfolding, which thereafter determines the height of the table. The automation is done through the implementation of a switch system. We chose carbon fiber, a material strong enough to maintain its rigidity under stress.
 
 Laser cut file attached above is the file we used to make the clamp.
 
 ## Circuit Diagram
-![alt text](https://github.com/weiying98/alleviator-term4-3Dproject/master/schemeit-project.png)
+![alt text](schemeit-project.png)
 
 MOSFET used: NCE30H15
 
